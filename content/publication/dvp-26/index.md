@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Better bounds on Grothendieck constants of finite orders'
+title: 'Better bounds on finite-order Grothendieck constants'
 subtitle: ''
 summary: ''
 authors:
@@ -29,10 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-09-05T09:12:15.542083Z'
+publishDate: '2026-02-02T09:12:15.542083Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
+publication: '*Phys. Rev. A **113***'
+doi: 10.1103/m5mn-c5dx
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2409.03739
