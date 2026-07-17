@@ -32,8 +32,10 @@ image:
 projects: []
 publishDate: '2025-06-03T09:12:15.542083Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
+publication: '*Quantum **10***'
+doi: 10.22331/q-2026-06-19-2141
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.03045
