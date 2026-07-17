@@ -29,8 +29,10 @@ image:
 projects: []
 publishDate: '2025-09-12T09:12:13.201788Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
+publication: '*New. J. Phys. **28***'
+doi: 10.1088/1367-2630/ae72ba
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2509.10381
