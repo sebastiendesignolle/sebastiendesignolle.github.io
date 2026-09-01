@@ -8,7 +8,7 @@ authors:
 - Sébastien Designolle
 tags: []
 categories: []
-date: '2025-09-12'
+date: '2026-06-09'
 lastmod: 2023-05-24T10:51:32+02:00
 featured: false
 draft: false
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-09-12T09:12:13.201788Z'
+publishDate: '2026-06-09T09:12:13.201788Z'
 publication_types:
 - '2'
 abstract: ''
