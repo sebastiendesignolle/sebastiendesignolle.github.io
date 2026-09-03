@@ -12,8 +12,8 @@ authors:
 - Sebastian Pokutta
 tags: []
 categories: []
-date: '2025-08-02'
-lastmod: 2025-08-02T10:51:34+02:00
+date: '2026-09-03'
+lastmod: 2026-09-03T10:51:34+02:00
 featured: false
 draft: false
 
@@ -31,10 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-08-02T09:12:15.542083Z'
+publishDate: '2026-09-03T09:12:15.542083Z'
 publication_types:
-- '3'
+- '2'
 abstract: ''
+publication: '*Math. Prog. Comp.*'
+doi: 10.1007/s12532-026-00340-3
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2508.01299
